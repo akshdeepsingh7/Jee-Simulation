@@ -1,0 +1,158 @@
+{
+  "Physics": [
+    {
+      "text": "A body, under the action of a force F = 6i - 8j + 10k, acquires an acceleration of 1 m/s². The mass of this body must be:",
+      "options": ["10 kg", "20 kg", "10√2 kg", "2√10 kg"],
+      "correct": 2
+    },
+    {
+      "text": "The unit of thermal conductivity is:",
+      "options": ["J m⁻¹ K⁻¹", "W m⁻¹ K⁻¹", "J m K⁻¹", "W m K⁻¹"],
+      "correct": 1
+    },
+    {
+      "text": "What is the dimensional formula for gravitational constant G?",
+      "options": ["[M⁻¹L³T⁻²]", "[ML²T⁻²]", "[M⁻¹L²T⁻³]", "[ML³T⁻²]"],
+      "correct": 0
+    },
+    {
+      "text": "A projectile is fired with a velocity of 20 m/s at 60°. What is the maximum height reached?",
+      "options": ["10 m", "15 m", "20 m", "30 m"],
+      "correct": 2
+    },
+    {
+      "text": "The work done in moving a 1 C charge through a potential difference of 1 V is:",
+      "options": ["1 J", "1 N", "1 W", "1 C"],
+      "correct": 0
+    },
+    {
+      "text": "The time period of a simple pendulum is doubled. Its length becomes:",
+      "options": ["4 times", "2 times", "√2 times", "1/2 times"],
+      "correct": 0
+    },
+    {
+      "text": "The internal resistance of an ideal cell is:",
+      "options": ["1 Ω", "Zero", "Very large", "1.5 V"],
+      "correct": 1
+    },
+    {
+      "text": "Which of the following is NOT a unit of power?",
+      "options": ["Watt", "Horsepower", "Joule/second", "Volt"],
+      "correct": 3
+    },
+    {
+      "text": "The magnetic field at the center of a current-carrying circular loop is:",
+      "options": ["μ₀I/2R", "μ₀I/4πR", "μ₀I/4πR²", "μ₀IR²"],
+      "correct": 0
+    },
+    {
+      "text": "The speed of light in vacuum is:",
+      "options": ["3×10⁶ m/s", "3×10⁸ m/s", "3×10⁵ m/s", "3×10⁷ m/s"],
+      "correct": 1
+    }
+  ],
+  "Chemistry": [
+    {
+      "text": "Which of the following is a noble gas?",
+      "options": ["Nitrogen", "Oxygen", "Argon", "Hydrogen"],
+      "correct": 2
+    },
+    {
+      "text": "What is the chemical formula for table salt?",
+      "options": ["H₂O", "CO₂", "NaCl", "C₆H₁₂O₆"],
+      "correct": 2
+    },
+    {
+      "text": "Which of the following has the highest electronegativity?",
+      "options": ["Fluorine", "Oxygen", "Nitrogen", "Chlorine"],
+      "correct": 0
+    },
+    {
+      "text": "pH of a neutral solution at 25°C is:",
+      "options": ["0", "7", "14", "1"],
+      "correct": 1
+    },
+    {
+      "text": "Which gas is evolved when zinc reacts with dilute HCl?",
+      "options": ["O₂", "H₂", "N₂", "CO₂"],
+      "correct": 1
+    },
+    {
+      "text": "Which one is an amphoteric oxide?",
+      "options": ["Na₂O", "Al₂O₃", "CO₂", "MgO"],
+      "correct": 1
+    },
+    {
+      "text": "The IUPAC name of CH₃CH₂COOH is:",
+      "options": ["Propanoic acid", "Butanoic acid", "Ethanoic acid", "Formic acid"],
+      "correct": 0
+    },
+    {
+      "text": "Which of these is NOT an allotrope of carbon?",
+      "options": ["Diamond", "Graphite", "Benzene", "Fullerene"],
+      "correct": 2
+    },
+    {
+      "text": "Which block element is iron (Fe)?",
+      "options": ["s-block", "p-block", "d-block", "f-block"],
+      "correct": 2
+    },
+    {
+      "text": "Which law states that mass is neither created nor destroyed?",
+      "options": ["Boyle’s Law", "Law of Conservation of Mass", "Avogadro’s Law", "Dalton’s Law"],
+      "correct": 1
+    }
+  ],
+  "Mathematics": [
+    {
+      "text": "What is the value of ∫(1/x) dx?",
+      "options": ["x² + C", "ln|x| + C", "-1/x² + C", "eˣ + C"],
+      "correct": 1
+    },
+    {
+      "text": "What is the derivative of x²?",
+      "options": ["x", "2x", "x³/3", "2"],
+      "correct": 1
+    },
+    {
+      "text": "If a matrix A is both symmetric and skew-symmetric, then A is a:",
+      "options": ["Scalar matrix", "Diagonal matrix", "Zero matrix", "Identity matrix"],
+      "correct": 2
+    },
+    {
+      "text": "What is the sum of the first n natural numbers?",
+      "options": ["n(n+1)/2", "n²", "n(n-1)/2", "(n+1)(n-1)"],
+      "correct": 0
+    },
+    {
+      "text": "If sin θ = 3/5, what is cos θ?",
+      "options": ["4/5", "5/3", "3/4", "1/2"],
+      "correct": 0
+    },
+    {
+      "text": "The value of limit x→0 (sinx/x) is:",
+      "options": ["0", "1", "∞", "x"],
+      "correct": 1
+    },
+    {
+      "text": "The value of the determinant | 1 2 3 | 0 1 4 | 5 6 0 | is:",
+      "options": ["1", "-1", "0", "10"],
+      "correct": 0
+    },
+    {
+      "text": "If A = {1,2,3} and B = {a,b}, then number of functions from A to B is:",
+      "options": ["6", "8", "2", "3"],
+      "correct": 1
+    },
+    {
+      "text": "What is the general solution of cos x = 1/2?",
+      "options": ["x = ±π/3 + 2nπ", "x = π/3 + 2nπ", "x = 2nπ", "x = π + 2nπ"],
+      "correct": 0
+    },
+    {
+      "text": "The function f(x) = x³ - 3x is:",
+      "options": ["Even", "Odd", "Neither", "Constant"],
+      "correct": 1
+    }
+  ]
+}
