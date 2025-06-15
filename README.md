@@ -192,8 +192,7 @@ Need help? Here are your options:
 
 1. **Documentation**: Check this README thoroughly
 2. **Issues**: Open a [GitHub issue](https://github.com/akshdeepsingh7/Jee-Simulation/issues) for bugs
-3. **Discussions**: Use [GitHub Discussions](https://github.com/akshdeepsingh7/Jee-Simulation/discussions) for questions
-4. **Contact**: Reach out to [@akshdeepsingh7](https://github.com/akshdeepsingh7) for urgent issues
+3. **Contact**: Reach out to [@akshdeepsingh7](https://github.com/akshdeepsingh7) for urgent issues
 
 ## 🏆 Acknowledgments
 
